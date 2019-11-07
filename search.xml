@@ -4,38 +4,17 @@
   
     
     <entry>
-      <title>First blog！（A biiiiiiiig truth）</title>
-      <link href="/2019/11/06/test/"/>
-      <url>/2019/11/06/test/</url>
+      <title>Hello World</title>
+      <link href="/2019/11/07/hello-world/"/>
+      <url>/2019/11/07/hello-world/</url>
       
-        <content type="html"><![CDATA[<h1 id="一个巨大的真相！"><a href="#一个巨大的真相！" class="headerlink" title="一个巨大的真相！"></a>一个巨大的真相！</h1><blockquote><p><strong>真的猛士要敢于直面令人震惊的真相！</strong><br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;–鲁迅？</p></blockquote><p>今晚一个<del>不想学习的</del>学习累了放松一下的男人花了一晚上的时间，搭建了一个目前只有你知道的博客。</p><p><em>然后现在他要告诉你一个令人震惊的事实了！</em></p><p>就是&ensp;LHY is a Piiiiiiiiiiiig!</p><p>没想到吧~</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello, World"></a>Hello, World</h1><blockquote><p>学一项新事物最好的方法就是开始干。  &ensp;&ensp;&ensp;&ensp;–鲁迅</p></blockquote><p>找了一个很<del>不想学习</del>想学习博客的下午，开始了与GitHub、hexo的初遇。<br>终是完成了<strong>从0到1，从无穷小到有限</strong>的突破~</p><p>有一说一，是真的贼累，也是真的贼开心。<br>终于迈出了第一步，也终于算是在世界留下了一个属于自己的印记啦。（逃~</p><p>希望自己以后可以在此博客分享如下内容（<del>如果有时间的话</del>）：  </p><ul><li>计算机</li><li>数学</li><li>对世界的看法</li><li>… …</li></ul><p>最后就以我很喜欢的一句话来结束第一篇博客吧~</p><blockquote><p>For the loser now will be later to win.  &ensp;&ensp;&ensp;&ensp;–Bob Dylan</p></blockquote><p>晚安.</p>]]></content>
       
       
       
         <tags>
             
             <tag> Fun </tag>
-            
-            <tag> Life </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2019/11/06/hello-world/"/>
-      <url>/2019/11/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> lalala </tag>
             
             <tag> Study </tag>
             
