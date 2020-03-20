@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>CN</title>
+      <link href="/2020/03/20/CN/"/>
+      <url>/2020/03/20/CN/</url>
+      
+        <content type="html"><![CDATA[<p>Lalala</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Study </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Computer Networks </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/11/07/hello-world/"/>
       <url>/2019/11/07/hello-world/</url>
@@ -11,12 +36,16 @@
         <content type="html"><![CDATA[<h1><span id="hello-world">Hello, World</span></h1><blockquote><p>学一项新事物最好的方法就是开始干。  &ensp;&ensp;&ensp;&ensp;–鲁迅</p></blockquote><p>找了一个很<del>不想学习</del>想学习博客的下午，开始了与GitHub、hexo的初遇。<br>终是完成了<strong>从0到1，从无穷小到有限</strong>的突破~</p><p>有一说一，是真的贼累，也是真的贼开心。<br>终于迈出了第一步，也终于算是在世界留下了一个属于自己的印记啦。（逃~</p><p>希望自己以后可以在此博客分享如下内容（<del>如果有时间的话</del>）：  </p><ul><li>计算机</li><li>数学</li><li>对世界的看法</li><li>… …</li></ul><p>最后就以我很喜欢的一句话来结束第一篇博客吧~</p><blockquote><p>For the loser now will be later to win.  &ensp;&ensp;&ensp;&ensp;–Bob Dylan</p></blockquote><p>晚安.</p>]]></content>
       
       
+      <categories>
+          
+          <category> Life </category>
+          
+      </categories>
+      
       
         <tags>
             
             <tag> Fun </tag>
-            
-            <tag> Study </tag>
             
         </tags>
       
